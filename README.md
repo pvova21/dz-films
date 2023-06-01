@@ -1,6 +1,6 @@
 # dz-film
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/x0hiycpqarlkbbcq?svg=true)](https://ci.appveyor.com/project/pvova21/dz-films)
 
 
 
