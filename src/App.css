@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+}
+
+.card-body-stars {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
