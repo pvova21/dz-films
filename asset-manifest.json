@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/dz-films/static/css/main.7f834d37.css",
+    "main.js": "/dz-films/static/js/main.18424b62.js",
+    "static/js/787.105afff8.chunk.js": "/dz-films/static/js/787.105afff8.chunk.js",
+    "index.html": "/dz-films/index.html",
+    "main.7f834d37.css.map": "/dz-films/static/css/main.7f834d37.css.map",
+    "main.18424b62.js.map": "/dz-films/static/js/main.18424b62.js.map",
+    "787.105afff8.chunk.js.map": "/dz-films/static/js/787.105afff8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f834d37.css",
+    "static/js/main.18424b62.js"
+  ]
+}
